@@ -1,0 +1,23 @@
+canvas {
+  border: 2px solid white;
+}
+
+body {
+  text-align: center;
+  color: white;
+}
+
+button {
+  width: 200px;
+  height: 70px;
+  font-size: 30px;
+  border-radius: 20px;
+}
+
+html {
+  background-color: black;
+}
+
+button:hover {
+  border: 6px solid green;
+}
